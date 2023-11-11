@@ -16,5 +16,5 @@ else:
         count += 1 
         if count <= N: 
             equation += " + " 
-    print(sum) # 
-    print(equation, "=", sum) # და ვპრინტავთ მოქმედებას
+    print(sum) 
+    print(equation, "=", sum) 
